@@ -1,0 +1,2 @@
+This is my DevOps Practical No. 2.
+Git repository synchronization.
